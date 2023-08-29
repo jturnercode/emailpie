@@ -1,0 +1,90 @@
+# Specific Files & Folders
+_*
+*.csv
+*.txt
+*.docx
+*.columns
+*.url
+*.db
+Pipfile.lock
+Pipfile
+
+# VirtEnv Files
+
+
+# setup.cfg dist directory
+dist
+
+# Egg metadata
+*.egg-info
+.eggs
+.pypirc
+
+# config files
+config.py
+configfile.py
+
+# Python
+__pycache__/
+
+# ENV
+.env
+env.js
+
+#DB
+*.db
+*.db-shm
+*.db-wal
+
+
+# Images
+/images
+*.jpg
+*.png
+*.gif
+
+
+# Logs
+logs
+*.log
+
+
+
+# Optional npm cache directory
+.npm
+
+
+### Linux ###
+*~
+
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+
+### Sass ###
+.sass-cache/
+*.css.map
+
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
